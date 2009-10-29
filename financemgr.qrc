@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Icon" >
+        <file>Resources/User1.png</file>
+        <file>Resources/calculator.png</file>
+        <file>Resources/add1.png</file>
+        <file>Resources/delete.png</file>
+        <file>Resources/edit.png</file>
+        <file>Resources/box_download_48.png</file>
+        <file>Resources/box_upload_48.png</file>
+        <file>Resources/app_48.png</file>
+        <file>Resources/order.png</file>
+        <file>Resources/arrow_right_green_48.png</file>
+        <file>Resources/accepted_48.png</file>
+        <file>Resources/add2.png</file>
+        <file>Resources/Print.png</file>
+    </qresource>
+</RCC>
